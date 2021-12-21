@@ -3,7 +3,7 @@ Stanford Question Answering Dataset (SQuAD) 2.0 translated to Brazilian Portugue
 
 This project won 1st place in the First AI Congress of TIDD from PUC-SP.
 
-Authors:
+Authors:<p>
 Wladimir Esposito (lead).<p>
 Piero Esposito <p>
 Daniel Gatti<p>
